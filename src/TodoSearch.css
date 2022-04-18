@@ -1,0 +1,14 @@
+.TodoSearch{
+    font-size: 18px;
+    border-radius:5px;
+    border: solid 1px #fff;
+    background-color: transparent;
+    color: #fff;
+    margin-block: 2rem;
+    font-weight: bold;
+    padding:0.8rem;
+    width: 80%;;
+}
+.TodoSearch::placeholder {
+    color: #fff;
+}
